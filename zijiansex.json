@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {"主页url": "https://www.ggyy.app",
+      "ext": {"主页url": "https://www.30av.me",
        "数组":"<section class=\"item-box\">&&</a>",
        "图片":"src=\"&&\"",
        "链接": "href=\"&&\"",
@@ -210,10 +210,10 @@
 	    "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
 	
-        "搜索url":"https://www.ggyy.app/vodsearch/{wd}/page/{pg}.html",
-		 "搜索链接前缀":"https://www.ggyy.app/vodplay/",
+        "搜索url":"https://www.30av.me/vodsearch/{wd}/page/{pg}.html",
+		 "搜索链接前缀":"https://www.30av.me/vodplay/",
        "搜索链接后缀":"-1-1.html",
-       "分类url": "https://www.ggyy.app/vodtype/{cateId}-{catePg}.html",
+       "分类url": "https://www.30av.me/vodtype/{cateId}-{catePg}.html",
         "分类": "步兵$23#骑兵$20#🀄️字$25#国产精品$2#制服$31#人妻$9#美乳$32#熟女$34#萝莉$35#强伦$33#欧美三级$29#韩国三级$27"
       }},
 	 {"key":"樱桃影视","name":"樱桃影视超清",
@@ -416,7 +416,7 @@
 	// "分类ID": "新片日韩AV$20#字幕精选$21#短片国产$22#酥胸外露$23#剧情强暴$24#制服扮演$25#熟女御姐$26#无码转载$27"
 	}},
      {"key":"色花堂","name":"🌸色花堂A版(优)","type":3,"api":"csp_XBPQ",
-  "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+  "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
   "ext":{"数组":"\"img-box cover-md\"&&\"img-box cover-md\"",
   "图片": "data-original=\"&&\"",
   "标题": "<h6 class=\"title\"><a href=*>&&</a>",
